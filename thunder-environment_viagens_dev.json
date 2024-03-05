@@ -1,0 +1,12 @@
+{
+    "client": "Thunder Client",
+    "environmentName": "viagens_dev",
+    "dateExported": "2024-03-05T00:40:37.942Z",
+    "version": "1.0",
+    "variables": [
+        {
+            "name": "base_url",
+            "value": "127.0.0.1:5000"
+        }
+    ]
+}
